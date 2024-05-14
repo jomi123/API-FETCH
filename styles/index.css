@@ -1,0 +1,25 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    display: inline-block;
+}
+
+.card h2 {
+    font-size: 16px;
+
+}
+
+.card p {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.star {
+    font-size: 14px;
+    color: #FFD700;
+
+}
+
